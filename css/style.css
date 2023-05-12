@@ -22,7 +22,7 @@ height: 100vh;
 
     top: 0;
     left: 0;
-    
+
     transition: transform 0.5s ease-in-out;
 }
 
@@ -35,8 +35,6 @@ height: 100vh;
     align-items: center;
     justify-content: center;
     color: white;
-
-
 }
 
 .sidebar h1 {
@@ -104,21 +102,4 @@ button:focus {
     transform: translateY(-100%);
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-}
-
-
-
-
-
-.controls {
-}
-.down-button {
-}
-.fas {
-}
-.fa-arrow-down {
-}
-.up-button {
-}
-.fa-arrow-up {
 }
